@@ -1,1 +1,90 @@
+.button {
+    
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+.button {
+    background-color: #ec0839;
+    font-size: 16px;
+    border-radius: 8px;
 
+}
+.button {
+    transition-duration: 0.4s;
+}
+.button {
+  transition-duration: 0.4s;
+}
+
+.button:hover {
+  background-color: #4CAF50; /* Green */
+  color: white;
+}
+
+.button {
+    background-color: #ec0839;
+    /* Green */
+    color: white;
+}
+.h1 {
+    font-family: Arial, Helvetica, sans-serif;
+}
+.p {
+    font-family: Arial, Helvetica, sans-serif;
+}
+.div {
+    font-family: Arial, Helvetica, sans-serif;
+}
+   p {
+
+
+       color: #ffffff;
+
+
+   }
+   h1 {
+
+
+       color: #ffffff;
+
+
+   }
+   div {
+
+
+       color: #ffffff;
+
+
+   }
+   .btn-group  {
+       
+       /* Green */
+       border: none;
+       color: white;
+       padding: 15px 32px;
+       text-align: center;
+       text-decoration: none;
+       display: inline-block;
+       font-size: 16px;
+       cursor: pointer;
+       float: center;
+   }
+.disabled {
+    opacity: 0.6;
+    cursor: not-allowed;
+    border: none;
+    font-size: 16px;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    background-color: #ec0839;
+    font-size: 16px;
+    border-radius: 8px;
+}
